@@ -1,0 +1,329 @@
+[{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 1,
+      "name": "北海道"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 2,
+      "name": "青森"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 3,
+      "name": "岩手"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 4,
+      "name": "宮城"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 5,
+      "name": "秋田"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 6,
+      "name": "山形"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 7,
+      "name": "福島"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 8,
+      "name": "茨城"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 9,
+      "name": "栃木"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 10,
+      "name": "群馬"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 11,
+      "name": "埼玉"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 12,
+      "name": "千葉"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 13,
+      "name": "東京"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 14,
+      "name": "神奈川"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 15,
+      "name": "新潟"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 16,
+      "name": "富山"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 17,
+      "name": "石川"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 18,
+      "name": "福井"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 19,
+      "name": "山梨"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 20,
+      "name": "長野"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 21,
+      "name": "岐阜"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 22,
+      "name": "静岡"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 23,
+      "name": "愛知"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 24,
+      "name": "三重"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 25,
+      "name": "滋賀"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 26,
+      "name": "京都"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 27,
+      "name": "大阪"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 28,
+      "name": "兵庫"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 29,
+      "name": "奈良"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 30,
+      "name": "和歌山"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 31,
+      "name": "鳥取"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 32,
+      "name": "島根"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 33,
+      "name": "岡山"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 34,
+      "name": "広島"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 35,
+      "name": "山口"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 36,
+      "name": "徳島"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 37,
+      "name": "香川"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 38,
+      "name": "愛媛"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 39,
+      "name": "高知"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 40,
+      "name": "福岡"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 41,
+      "name": "佐賀"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 42,
+      "name": "長崎"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 43,
+      "name": "熊本"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 44,
+      "name": "大分"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 45,
+      "name": "宮崎"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 46,
+      "name": "鹿児島"
+    }
+  },
+{
+    "model": "sugartsa.Pref",
+    "fields": {
+      "code": 47,
+      "name": "沖縄"
+    }
+  }]

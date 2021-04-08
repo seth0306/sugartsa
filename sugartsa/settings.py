@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'sugartsa',
     'shopadmin',
+    'bootstrap4',
     'users.apps.UsersConfig',
 ]
 
@@ -75,6 +76,9 @@ TEMPLATES = [
                 'django.contrib.messages.context_processors.messages',
                 # allauth
                 'django.template.context_processors.request',
+            ],
+            'builtins': [
+                'bootstrap4.templatetags.bootstrap4',
             ],
         },
     },

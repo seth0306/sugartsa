@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'sugartsa',
     'shopadmin',
     'bootstrap4',
+    'widget_tweaks',
     'users.apps.UsersConfig',
 ]
 
